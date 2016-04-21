@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.ripple",
+	"version": "20160421.0.0",
+	"description": "module zz.ui.mdlripple for zz project",
+	"author": {
+		"name": "Popkov ALexander",
+		"email": "popkov.aleksander@mgail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.ui.mdl.ripple/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.ripple.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
